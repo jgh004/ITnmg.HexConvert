@@ -11,7 +11,7 @@
     <PackageLicenseUrl>https://github.com/jgh004/ITnmg.HexConvert/blob/master/LICENSE</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/jgh004/ITnmg.HexConvert.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageTags>HexConvert, ByteConvert,Bytes Convert,Hex Convert,Hex helper,net core,netcore,ITnmg</PackageTags>
+    <PackageTags>Byte,Hex,Convert,HexConvert,ByteConvert,BytesConvert,HexHelper,NetCore,ITnmg,jgh004</PackageTags>
     <PackageReleaseNotes>Hexadecimal string and byte arrays convert to each other</PackageReleaseNotes>
   </PropertyGroup>
 
