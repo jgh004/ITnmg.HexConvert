@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>ITnmg</Authors>
+    <Company>ITnmg.net</Company>
+    <Description>Hexadecimal string and byte arrays convert to each other</Description>
+    <Copyright>Copyright © 2018</Copyright>
+    <PackageProjectUrl>https://github.com/jgh004/ITnmg.HexConvert.git</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/jgh004/ITnmg.HexConvert/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/jgh004/ITnmg.HexConvert.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>HexConvert, ByteConvert,Bytes Convert,Hex Convert,Hex helper,net core,netcore,ITnmg</PackageTags>
+    <PackageReleaseNotes>Hexadecimal string and byte arrays convert to each other</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Memory" Version="4.5.0" />
+  </ItemGroup>
+
+</Project>
