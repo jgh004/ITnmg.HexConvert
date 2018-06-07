@@ -15,6 +15,10 @@
     <PackageReleaseNotes>Hexadecimal string and byte arrays convert to each other</PackageReleaseNotes>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
   <ItemGroup>
     <PackageReference Include="System.Memory" Version="4.5.0" />
   </ItemGroup>
