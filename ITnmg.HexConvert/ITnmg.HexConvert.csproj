@@ -14,8 +14,8 @@ Hexadecimal string and byte arrays convert to each other</Description>
     <RepositoryType>git</RepositoryType>
     <PackageTags>Byte,Hex,Convert,HexConvert,ByteConvert,HexExtention,ByteExtention,BytesConvert,HexHelper,NetCore,ITnmg,jgh004</PackageTags>
     <PackageReleaseNotes>增加转为16进制字符串时的分隔符参数。</PackageReleaseNotes>
-    <Version>1.0.1</Version>
-    <PackageIconUrl>https://raw.githubusercontent.com/jgh004/ITnmg.HexConvert/master/SolutionItems/Logo.png</PackageIconUrl>
+    <Version>1.0.2</Version>
+    <PackageIconUrl>https://raw.githubusercontent.com/jgh004/ITnmg.HexConvert/master/Logo.png</PackageIconUrl>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageLicenseExpression></PackageLicenseExpression>
   </PropertyGroup>

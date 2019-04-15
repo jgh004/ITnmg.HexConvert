@@ -1,6 +1,6 @@
 # ITnmg.HexConvert
+字节数组与16进制字符串互转。
 Hexadecimal string and byte arrays convert to each other
-字节数组与16进制字符串互转
 
 # Install
 

@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITnmg.HexConvert", "ITnmg.H
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AF4C0764-0AE5-4D9B-91F4-8797789AA755}"
 	ProjectSection(SolutionItems) = preProject
-		E:\Downloads\Logo.png = E:\Downloads\Logo.png
+		Logo.png = Logo.png
 	EndProjectSection
 EndProject
 Global
