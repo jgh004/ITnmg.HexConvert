@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2026
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITnmg.HexConvert", "ITnmg.HexConvert\ITnmg.HexConvert.csproj", "{BBE27ABB-3D9D-4716-981E-062C8B5B9981}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{0538DE68-6384-4E3D-A113-92F942FDC0FA}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AF4C0764-0AE5-4D9B-91F4-8797789AA755}"
 	ProjectSection(SolutionItems) = preProject
-		README.md = README.md
+		E:\Downloads\Logo.png = E:\Downloads\Logo.png
 	EndProjectSection
 EndProject
 Global

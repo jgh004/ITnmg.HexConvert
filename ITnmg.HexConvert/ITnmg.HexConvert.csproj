@@ -5,14 +5,19 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>ITnmg</Authors>
     <Company>ITnmg.net</Company>
-    <Description>Hexadecimal string and byte arrays convert to each other</Description>
-    <Copyright>Copyright © 2018 ITnmg.net</Copyright>
+    <Description>十六进制字符串与字节数组互转及判断。
+Hexadecimal string and byte arrays convert to each other</Description>
+    <Copyright>Copyright © 2018-2019 ITnmg.net</Copyright>
     <PackageProjectUrl>https://github.com/jgh004/ITnmg.HexConvert.git</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/jgh004/ITnmg.HexConvert/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageLicenseUrl></PackageLicenseUrl>
     <RepositoryUrl>https://github.com/jgh004/ITnmg.HexConvert.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageTags>Byte,Hex,Convert,HexConvert,ByteConvert,BytesConvert,HexHelper,NetCore,ITnmg,jgh004</PackageTags>
-    <PackageReleaseNotes>Hexadecimal string and byte arrays convert to each other</PackageReleaseNotes>
+    <PackageTags>Byte,Hex,Convert,HexConvert,ByteConvert,HexExtention,ByteExtention,BytesConvert,HexHelper,NetCore,ITnmg,jgh004</PackageTags>
+    <PackageReleaseNotes>增加转为16进制字符串时的分隔符参数。</PackageReleaseNotes>
+    <Version>1.0.1</Version>
+    <PackageIconUrl>https://raw.githubusercontent.com/jgh004/ITnmg.HexConvert/master/SolutionItems/Logo.png</PackageIconUrl>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageLicenseExpression></PackageLicenseExpression>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -21,6 +26,13 @@
 
   <ItemGroup>
     <PackageReference Include="System.Memory" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
