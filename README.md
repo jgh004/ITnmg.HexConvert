@@ -11,10 +11,10 @@ Run the following command in the Package Manager Console.
 
 # Usage
     
-    var bytes = new byte[]{0xAA, 0xBB, 0xCC};
+    var bytes = new byte[] {0xAA, 0xBB, 0xCC};
     var hex = bytes.ToHexString( " " );
 
-    if ( hex.IsHexString() )
+    if ( hex.IsHexString( " " ) )
     {
-        var tmpBytes = hex.ToBytes();
+        var tmpBytes = hex.ToBytes( " " );
     }
