@@ -10,7 +10,7 @@ Run the following command in the Package Manager Console.
     PM> Install-Package ITnmg.HexConvert
 
 # Usage
-    
+```c#
     var bytes = new byte[] {0xAA, 0xBB, 0xCC};
     var hex = bytes.ToHexString();
 
@@ -18,3 +18,4 @@ Run the following command in the Package Manager Console.
     {
         var tmpBytes = hex.ToBytes();
     }
+```
